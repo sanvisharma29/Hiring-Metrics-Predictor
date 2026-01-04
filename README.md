@@ -99,4 +99,6 @@ The models were evaluated using:
 
 ## Author
 **Sanvi Sharma**  
-- GitHub: https://github.com/sanvisharma29  
+- GitHub: https://github.com/sanvisharma29
+- 📧 Email: sanvisharma592@gmail.com 
+- 🔗 LinkedIn: www.linkedin.com/in/sanvisharma29
